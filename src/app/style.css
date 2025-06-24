@@ -1,0 +1,32 @@
+
+.sidebar-pane {
+    -fx-background-color: #79DC05;
+}
+
+.left-pane {
+    -fx-background-color: #AA7733;
+}
+
+.table {
+    -fx-background-color: #999999;
+}
+.menu-bar {
+    -fx-background-color: #884411;
+}
+
+
+.button {
+    -fx-background-color: #AA7733;
+    -fx-text-fill: #000000;
+    -fx-border-color: #cccccc;
+    -fx-font-size: 14px;
+    -fx-background-radius: 10;
+}
+
+
+.text-field {
+    -fx-font-size: 13px;
+    -fx-prompt-text-fill: #666666;
+    -fx-background-radius: 5;
+}
+
